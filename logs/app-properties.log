@@ -1,0 +1,2074 @@
+[INFO ] 06-12-2022 11:04:34 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 11:04:34 [main] Log - Running testcase verify button display
+[ERROR] 06-12-2022 11:16:03 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 11:23:49 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 11:23:55 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 11:23:55 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 11:24:00 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 11:24:45 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 11:24:51 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 11:24:51 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 11:24:55 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 11:24:56 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 11:24:56 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 11:27:50 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 11:27:56 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 11:27:56 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 11:28:00 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 11:28:01 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 11:28:01 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 11:28:02 [main] Log - The page under test has 4 images
+[INFO ] 06-12-2022 11:28:02 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 06-12-2022 11:28:02 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 06-12-2022 11:28:02 [main] Log - 2 broken images
+[INFO ] 06-12-2022 15:37:16 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 15:37:25 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 15:37:25 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 06-12-2022 15:41:19 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 15:41:26 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 15:41:26 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 06-12-2022 15:45:26 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 15:45:31 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 15:45:31 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 15:45:36 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:12:08 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 16:12:15 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 16:12:15 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 16:12:19 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:15:20 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 16:15:27 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 16:15:27 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 16:15:32 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:23:17 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 16:23:26 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 16:23:26 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 16:23:30 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:23:31 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 16:23:31 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 16:23:33 [main] Log - The page under test has 4 images
+[INFO ] 06-12-2022 16:23:33 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 06-12-2022 16:23:33 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 06-12-2022 16:23:33 [main] Log - 2 broken images
+[INFO ] 06-12-2022 16:25:00 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 16:25:05 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 16:25:05 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 16:25:10 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:25:11 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 16:25:11 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 16:25:13 [main] Log - The page under test has 4 images
+[INFO ] 06-12-2022 16:25:13 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 06-12-2022 16:25:13 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 06-12-2022 16:25:13 [main] Log - 2 broken images
+[INFO ] 06-12-2022 16:48:00 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 16:48:09 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 16:48:09 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 16:48:14 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:48:15 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 16:48:15 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:15 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:15 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:15 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 16:48:15 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:16 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:16 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:17 [main] Log - The page under test has 4 images
+[INFO ] 06-12-2022 16:48:17 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 06-12-2022 16:48:17 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 06-12-2022 16:48:17 [main] Log - 2 broken images
+[INFO ] 06-12-2022 16:48:17 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:17 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:17 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:17 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:17 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:17 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:21 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:22 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:24 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:24 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:24 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:25 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:25 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:25 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:26 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:48:26 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:48:26 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:50:45 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 16:50:51 [main] Log - src/test/resources/production.properties
+[INFO ] 06-12-2022 16:50:51 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 06-12-2022 16:51:09 [main] Log - Testcase Fail : check title
+[INFO ] 06-12-2022 16:51:09 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 16:51:09 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:51:09 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 16:51:10 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 16:51:10 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 16:51:13 [main] Log - The page under test has 4 images
+[INFO ] 06-12-2022 16:51:13 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 06-12-2022 16:51:13 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 06-12-2022 16:51:13 [main] Log - 2 broken images
+[INFO ] 06-12-2022 17:17:10 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 06-12-2022 17:17:10 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 17:17:17 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:17:17 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 06-12-2022 17:17:21 [main] Log - Running testcase verify Title
+[ERROR] 06-12-2022 17:17:21 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 06-12-2022 17:17:21 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:17:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:17:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:17:22 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:17:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:17:22 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:17:25 [main] Log - Kết thúc auto test
+[INFO ] 06-12-2022 17:18:04 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 06-12-2022 17:18:04 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 17:18:11 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:18:11 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 06-12-2022 17:18:16 [main] Log - Running testcase verify Title
+[INFO ] 06-12-2022 17:18:16 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 06-12-2022 17:18:16 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 17:18:17 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 06-12-2022 17:18:20 [main] Log - Kết thúc auto test
+[INFO ] 06-12-2022 17:21:28 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 06-12-2022 17:21:28 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 17:21:34 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:21:34 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 06-12-2022 17:21:39 [main] Log - Running testcase verify Title
+[ERROR] 06-12-2022 17:21:39 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 06-12-2022 17:21:39 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:21:39 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:21:39 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:21:39 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:21:39 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:21:39 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:21:39 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 17:21:39 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 06-12-2022 17:21:43 [main] Log - Kết thúc auto test
+[INFO ] 06-12-2022 17:39:19 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 06-12-2022 17:39:19 [main] Log - Launching chrome browser...
+[INFO ] 06-12-2022 17:39:26 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:39:26 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 06-12-2022 17:39:33 [main] Log - Running testcase verify Title
+[ERROR] 06-12-2022 17:39:33 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 06-12-2022 17:39:33 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:39:34 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:39:34 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:39:34 [main] Log - src/test/resources/dev.properties
+[INFO ] 06-12-2022 17:39:34 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:39:34 [main] Log - ExportData/Images
+[INFO ] 06-12-2022 17:39:34 [main] Log - Running testcase verify button display
+[INFO ] 06-12-2022 17:39:34 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 06-12-2022 17:39:37 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 10:28:17 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 10:28:17 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 10:28:27 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 10:28:27 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 10:28:32 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 10:28:32 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 10:28:32 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 10:28:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:32 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 10:28:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:33 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 10:28:33 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 10:28:33 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 10:28:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:34 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 10:28:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:28:34 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 10:28:34 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 10:28:35 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 10:28:35 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 10:28:35 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 10:28:35 [main] Log - 2 broken images
+[INFO ] 07-12-2022 10:28:35 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 10:28:35 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:28:40 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 10:28:40 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:28:42 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:28:43 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 10:28:44 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 10:28:47 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 10:49:46 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 10:49:46 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 10:49:52 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 10:49:52 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 10:49:57 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 10:49:57 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:49:58 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 10:49:58 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 10:49:58 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:49:58 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:49:58 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:49:58 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:49:58 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:49:58 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:49:58 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 10:49:58 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 10:50:00 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 10:50:00 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 10:50:00 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 10:50:00 [main] Log - 2 broken images
+[INFO ] 07-12-2022 10:50:00 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 10:50:00 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:50:06 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 10:50:06 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:50:08 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:50:09 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 10:50:10 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 10:50:13 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 10:54:46 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 10:54:46 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 10:54:57 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 10:54:57 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 10:55:02 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 10:55:02 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:55:02 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:02 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:02 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:03 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 10:55:04 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 10:55:04 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:04 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:04 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:04 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 10:55:04 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 10:55:04 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:04 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:04 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:06 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 10:55:06 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 10:55:06 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 10:55:06 [main] Log - 2 broken images
+[INFO ] 07-12-2022 10:55:06 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 10:55:06 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:06 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:06 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:06 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:55:06 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:14 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 10:55:14 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:14 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:55:14 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:15 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:15 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:17 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 10:55:17 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:17 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:17 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:18 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 10:55:18 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:18 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:18 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:19 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 10:55:19 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 10:55:19 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:19 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 10:55:23 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:03:31 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:03:31 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:03:38 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 11:03:38 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:03:44 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 11:03:44 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:03:44 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:03:44 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:44 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:44 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:03:44 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:44 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:46 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:03:46 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:03:46 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:03:46 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:46 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:46 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:03:46 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:46 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:03:46 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:03:46 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:03:48 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:03:48 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:03:48 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:03:48 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:03:48 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:03:48 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:03:52 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:03:52 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:03:54 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:03:55 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:03:56 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:04:00 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:21:48 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:21:48 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:21:55 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 11:21:55 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 11:22:01 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:22:01 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:22:01 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:22:01 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:22:01 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:22:01 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:22:01 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:22:01 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:22:01 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:22:02 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:22:05 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:23:12 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:23:12 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:23:18 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 11:23:18 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 11:23:22 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:23:22 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:23:22 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:23:23 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:23:23 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:23:23 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:23:23 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:23:23 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:23:23 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:23:23 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:23:27 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:35:09 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:35:09 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:35:20 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 11:35:20 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 11:35:25 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:35:25 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:35:25 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:35:25 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:35:25 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:35:25 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:35:25 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:35:25 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:35:25 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:35:25 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:35:29 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:40:00 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:40:00 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:40:07 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 11:40:07 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:40:12 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 11:40:12 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:40:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:40:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:40:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:13 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:40:13 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:40:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:40:13 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:13 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:40:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:40:14 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:40:14 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:40:15 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:40:15 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:40:15 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:40:15 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:40:15 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:40:15 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:40:19 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:40:19 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:40:21 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:40:22 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:40:23 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:40:27 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:43:57 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:43:57 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:44:03 [main] Log - src/test/resources/dev.properties
+[INFO ] 07-12-2022 11:44:03 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:44:07 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 11:44:07 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:44:07 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:44:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:07 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:44:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:08 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:44:08 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:44:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:44:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:09 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:44:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:44:09 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:44:09 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:44:10 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:44:10 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:44:10 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:44:10 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:44:10 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:44:10 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:44:16 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:44:16 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:44:18 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:44:19 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:44:19 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:44:23 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:46:57 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:46:57 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:47:03 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 11:47:03 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:47:07 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 11:47:07 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:47:08 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:47:08 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:47:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:47:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:47:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:47:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:47:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:47:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:47:09 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:47:09 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:47:10 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:47:10 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:47:10 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:47:10 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:47:10 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:47:10 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:47:14 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:47:14 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:47:16 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:47:17 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:47:18 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:47:21 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:51:23 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:51:23 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:51:30 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 11:51:30 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:51:36 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 11:51:36 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:51:37 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:51:37 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:51:37 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:51:37 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:51:37 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:51:37 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:51:38 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:51:38 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:51:38 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:51:38 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:51:39 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:51:39 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:51:39 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:51:39 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:51:39 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:51:39 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:51:43 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:51:43 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:51:44 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:51:45 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:51:46 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:51:49 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:55:15 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:55:15 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:55:22 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 11:55:22 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:55:26 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 11:55:26 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:55:26 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:55:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:26 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:55:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:28 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:55:28 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:55:28 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:55:28 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:28 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:28 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:55:28 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:28 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:55:28 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:55:29 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:55:30 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:55:30 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:55:31 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:55:31 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:55:31 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:55:31 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:55:37 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:55:38 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:55:40 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:55:41 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:55:42 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:55:45 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 11:56:56 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 11:56:56 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 11:57:02 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 11:57:02 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 11:57:07 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 11:57:07 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:57:07 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:57:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:07 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:57:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:08 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 11:57:08 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 11:57:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:57:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 11:57:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 11:57:08 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 11:57:09 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 11:57:10 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 11:57:10 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 11:57:10 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 11:57:10 [main] Log - 2 broken images
+[INFO ] 07-12-2022 11:57:10 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 11:57:10 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:57:17 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 11:57:17 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:57:19 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 11:57:21 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 11:57:22 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 11:57:25 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 12:00:27 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 12:00:27 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 12:00:34 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 12:00:34 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 12:00:39 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 12:00:39 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:00:39 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 12:00:39 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 12:00:39 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 12:00:40 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:00:40 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:00:40 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 12:00:40 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:00:40 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:00:40 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 12:00:40 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 12:00:41 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 12:00:41 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 12:00:41 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 12:00:41 [main] Log - 2 broken images
+[INFO ] 07-12-2022 12:00:41 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 12:00:42 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:00:46 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 12:00:46 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:00:48 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:00:49 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 12:00:50 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 12:00:53 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 12:01:40 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 12:01:40 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 12:01:46 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 12:01:46 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 12:01:50 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 12:01:50 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:01:51 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 12:01:51 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 12:01:51 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 12:01:51 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:01:51 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:01:51 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 12:01:51 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:01:51 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 12:01:51 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 12:01:52 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 12:01:53 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 12:01:53 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 12:01:53 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 12:01:53 [main] Log - 2 broken images
+[INFO ] 07-12-2022 12:01:53 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 12:01:53 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:01:57 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 12:01:57 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:01:59 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 12:02:00 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 12:02:01 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 12:02:04 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 14:03:45 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 14:03:45 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:03:55 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:03:55 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 14:04:10 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 14:04:10 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 14:04:10 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:04:10 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:10 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:10 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:04:10 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:10 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:11 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 14:04:12 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 14:04:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:04:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:04:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:04:12 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 14:04:12 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 14:04:14 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 14:04:14 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 14:04:14 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 14:04:14 [main] Log - 2 broken images
+[INFO ] 07-12-2022 14:04:14 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 14:04:14 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 14:04:20 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 14:04:20 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 14:04:22 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 14:04:23 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 14:04:23 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 14:04:27 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 14:06:58 [main] Log - Đây là đoạn khởi động auto test
+[INFO ] 07-12-2022 14:06:58 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:07:07 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:07:07 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 07-12-2022 14:07:13 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 14:07:13 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 14:07:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:07:13 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:13 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:07:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:15 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 14:07:15 [main] Log - Đây là test case bị fail: verifyTitleExist
+[INFO ] 07-12-2022 14:07:15 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:07:15 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:15 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:15 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:07:15 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:15 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:07:15 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 14:07:16 [main] Log - Đây là test case chạy thành công: verifyButtonDisplay
+[INFO ] 07-12-2022 14:07:17 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 14:07:17 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 14:07:17 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 14:07:17 [main] Log - 2 broken images
+[INFO ] 07-12-2022 14:07:17 [main] Log - Đây là test case chạy thành công: verifyBrokenImg
+[INFO ] 07-12-2022 14:07:17 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 14:07:23 [main] Log - Đây là test case chạy thành công: verifySendLogin
+[INFO ] 07-12-2022 14:07:23 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 14:07:26 [main] Log - Đây là test case chạy thành công: verifyTitleExist
+[INFO ] 07-12-2022 14:07:28 [main] Log - Đây là test case chạy thành công: verifyLogin
+[INFO ] 07-12-2022 14:07:30 [main] Log - Đây là test case chạy thành công: verifyLogout
+[INFO ] 07-12-2022 14:07:33 [main] Log - Kết thúc auto test
+[INFO ] 07-12-2022 14:19:13 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:19:13 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:19:19 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:19:19 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 14:19:24 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 14:19:24 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 14:19:24 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:19:25 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:19:25 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 14:19:25 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:19:25 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:19:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:19:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:19:26 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 14:19:26 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 14:19:26 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 14:19:27 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 14:19:27 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 14:19:28 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 14:19:28 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 14:19:28 [main] Log - 2 broken images
+[INFO ] 07-12-2022 14:19:28 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 14:19:28 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:19:28 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:19:29 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 14:19:32 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 14:19:32 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:19:32 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:19:34 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:19:34 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:19:34 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 14:19:35 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 14:19:35 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 14:19:36 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 14:19:39 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:20:47 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:20:47 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:20:58 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:20:58 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 14:21:02 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 14:21:03 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 14:21:03 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:21:03 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:21:03 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:21:03 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:21:04 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:21:04 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 14:21:04 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:21:04 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:21:05 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:21:05 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:21:05 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 14:21:05 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 14:21:05 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 14:21:06 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 14:21:06 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 14:21:06 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 14:21:06 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 14:21:06 [main] Log - 2 broken images
+[INFO ] 07-12-2022 14:21:06 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 14:21:06 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:21:07 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:21:08 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 14:21:11 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 14:21:11 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:21:11 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:21:13 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 14:21:13 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 14:21:13 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 14:21:14 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 14:21:14 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 14:21:14 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 14:21:18 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:47:36 [main] Log - I am in onStart method C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:47:36 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:47:43 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:47:43 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 14:47:49 [main] Log - verifyTitleExist test is starting.
+[ERROR] 07-12-2022 14:47:49 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 14:47:49 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:47:50 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:47:53 [main] Log - I am in onFinish method C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:49:52 [main] Log - I am in onStart method C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:49:52 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:50:04 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:50:04 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 14:50:09 [main] Log - verifyTitleExist test is starting.
+[ERROR] 07-12-2022 14:50:09 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 14:50:09 [main] Log - verifyTitleExist test is succeed.
+[INFO ] 07-12-2022 14:50:10 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:50:13 [main] Log - I am in onFinish method C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:51:59 [main] Log - I am in onStart method C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 14:51:59 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 14:52:06 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 14:52:06 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 14:52:10 [main] Log - verifyTitleExist test is starting.
+[ERROR] 07-12-2022 14:52:10 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 14:52:10 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:52:10 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:52:11 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:52:11 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:52:11 [main] Log - verifyTitleExist test is starting.
+[INFO ] 07-12-2022 14:52:11 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:52:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 14:52:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:52:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 14:52:12 [main] Log - verifyButtonDisplay test is starting.
+[INFO ] 07-12-2022 14:52:12 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 14:52:12 [main] Log - verifyButtonDisplay test is succeed.
+[INFO ] 07-12-2022 14:52:13 [main] Log - verifyButtonDisplay test is failed.
+[INFO ] 07-12-2022 14:52:14 [main] Log - verifyBrokenImg test is starting.
+[INFO ] 07-12-2022 14:52:14 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 14:52:14 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 14:52:14 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 14:52:14 [main] Log - 2 broken images
+[INFO ] 07-12-2022 14:52:14 [main] Log - verifyBrokenImg test is succeed.
+[INFO ] 07-12-2022 14:52:14 [main] Log - verifyBrokenImg test is failed.
+[INFO ] 07-12-2022 14:52:15 [main] Log - verifyTitleExist test is starting.
+[INFO ] 07-12-2022 14:52:15 [main] Log - verifyTitleExist test is succeed.
+[INFO ] 07-12-2022 14:52:15 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:52:16 [main] Log - verifySendLogin test is starting.
+[INFO ] 07-12-2022 14:52:20 [main] Log - verifySendLogin test is succeed.
+[INFO ] 07-12-2022 14:52:20 [main] Log - verifySendLogin test is failed.
+[INFO ] 07-12-2022 14:52:20 [main] Log - verifyTitleExist test is starting.
+[INFO ] 07-12-2022 14:52:20 [main] Log - verifyTitleExist test is succeed.
+[INFO ] 07-12-2022 14:52:20 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:52:23 [main] Log - verifyTitleExist test is starting.
+[INFO ] 07-12-2022 14:52:23 [main] Log - verifyTitleExist test is succeed.
+[INFO ] 07-12-2022 14:52:23 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 14:52:23 [main] Log - verifyLogin test is starting.
+[INFO ] 07-12-2022 14:52:24 [main] Log - verifyLogin test is succeed.
+[INFO ] 07-12-2022 14:52:24 [main] Log - verifyLogin test is failed.
+[INFO ] 07-12-2022 14:52:25 [main] Log - verifyLogout test is starting.
+[INFO ] 07-12-2022 14:52:26 [main] Log - verifyLogout test is succeed.
+[INFO ] 07-12-2022 14:52:26 [main] Log - verifyLogout test is failed.
+[INFO ] 07-12-2022 14:52:29 [main] Log - I am in onFinish method C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:00:48 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:00:48 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:00:56 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:00:56 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:01:01 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:01:02 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:01:02 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:02 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:02 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:03 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:01:03 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:01:04 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:04 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:04 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:04 [main] Log - verifyButtonDisplay test is starting...
+[ERROR] 07-12-2022 15:01:04 [main] Log - verifyButtonDisplay test is failed.
+[INFO ] 07-12-2022 15:01:04 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:05 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:05 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:06 [main] Log - verifyBrokenImg test is starting...
+[ERROR] 07-12-2022 15:01:06 [main] Log - verifyBrokenImg test is failed.
+[INFO ] 07-12-2022 15:01:06 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:06 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:06 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:06 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:01:06 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:01:06 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:07 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:08 [main] Log - verifySendLogin test is starting...
+[ERROR] 07-12-2022 15:01:08 [main] Log - verifySendLogin test is failed.
+[INFO ] 07-12-2022 15:01:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:08 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:08 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:01:08 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:01:09 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:09 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:11 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:01:11 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:01:11 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:12 [main] Log - verifyLogin test is starting...
+[ERROR] 07-12-2022 15:01:12 [main] Log - verifyLogin test is failed.
+[INFO ] 07-12-2022 15:01:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:12 [main] Log - verifyLogout test is starting...
+[ERROR] 07-12-2022 15:01:42 [main] Log - verifyLogout test is failed.
+[INFO ] 07-12-2022 15:01:42 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:01:42 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:42 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:01:46 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:03:00 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:03:00 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:03:07 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:03:07 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:03:11 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:03:12 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:03:12 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:03:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:12 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:13 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:03:13 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 15:03:13 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:03:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:03:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:14 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:14 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 15:03:14 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 15:03:14 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 15:03:15 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 15:03:15 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 15:03:15 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 15:03:15 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 15:03:15 [main] Log - 2 broken images
+[INFO ] 07-12-2022 15:03:15 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 15:03:16 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:03:16 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:03:17 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 15:03:23 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 15:03:23 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:03:23 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:03:24 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:03:24 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:03:24 [main] Log - verifyLogin test is starting...
+[ERROR] 07-12-2022 15:03:24 [main] Log - verifyLogin test is failed.
+[INFO ] 07-12-2022 15:03:25 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:03:25 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:25 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:25 [main] Log - verifyLogout test is starting...
+[ERROR] 07-12-2022 15:03:55 [main] Log - verifyLogout test is failed.
+[INFO ] 07-12-2022 15:03:55 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:03:55 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:55 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:03:59 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:04:32 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:04:32 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:04:41 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:04:41 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:04:46 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:04:46 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:04:46 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:04:47 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:04:47 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:04:47 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:04:47 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 15:04:48 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:04:48 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:04:48 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:04:48 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:04:48 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 15:04:48 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 15:04:48 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 15:04:49 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 15:04:49 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 15:04:49 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 15:04:50 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 15:04:50 [main] Log - 2 broken images
+[INFO ] 07-12-2022 15:04:50 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 15:04:50 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:04:50 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:04:50 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 15:04:54 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 15:04:54 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:04:54 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:04:55 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:04:55 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:04:55 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 15:04:56 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 15:04:56 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 15:04:57 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 15:05:01 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:09:15 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:09:15 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:09:23 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:09:23 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:09:28 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:09:29 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:09:31 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:09:31 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 15:09:31 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:09:32 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 15:09:32 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 15:09:32 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 15:09:32 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:34 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 15:09:34 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 15:09:34 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 15:09:34 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 15:09:34 [main] Log - 2 broken images
+[INFO ] 07-12-2022 15:09:34 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 15:09:34 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:34 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:09:34 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:09:34 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:34 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:35 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 15:09:38 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 15:09:38 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:39 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:39 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:39 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:09:39 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:09:39 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:39 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:39 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:41 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:09:41 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:09:41 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:41 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:41 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:41 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 15:09:42 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 15:09:42 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:42 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:42 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:42 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 15:09:43 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 15:09:43 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:09:43 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:43 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:09:46 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:13:13 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:13:13 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:13:20 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:13:20 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:13:24 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:13:25 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:13:25 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:13:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:13:26 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:13:27 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:13:27 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 15:13:27 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:13:27 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:13:27 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:13:27 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:13:27 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 15:13:27 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 15:13:28 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 15:13:29 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 15:13:29 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 15:13:29 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 15:13:29 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 15:13:29 [main] Log - 2 broken images
+[INFO ] 07-12-2022 15:13:29 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 15:13:29 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:13:29 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:13:31 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 15:13:37 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 15:13:37 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:13:37 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:13:39 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:13:39 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:13:39 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 15:13:40 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 15:13:41 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 15:13:41 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 15:13:45 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:15:06 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:15:06 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:15:15 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:15:15 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:15:19 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:15:20 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 15:15:20 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:15:20 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:15:20 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:15:20 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:15:21 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:15:21 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 15:15:21 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:15:21 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:15:22 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:15:22 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:15:22 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 15:15:22 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 15:15:22 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 15:15:24 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 15:15:24 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 15:15:24 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 15:15:24 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 15:15:24 [main] Log - 2 broken images
+[INFO ] 07-12-2022 15:15:24 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 15:15:24 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:15:24 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:15:25 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 15:15:28 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 15:15:29 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:15:29 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:15:33 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:15:33 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:15:34 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 15:15:36 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 15:15:36 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 15:15:38 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 15:15:42 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:18:15 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 15:18:15 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 15:18:24 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 15:18:24 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 15:18:30 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 15:18:30 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 15:18:30 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:18:31 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:18:31 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:18:31 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:18:32 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:18:32 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 15:18:32 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 15:18:32 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 15:18:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:18:32 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 15:18:32 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 15:18:32 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 15:18:33 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 07-12-2022 15:18:34 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 15:18:34 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 15:18:34 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 15:18:34 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 15:18:34 [main] Log - 2 broken images
+[INFO ] 07-12-2022 15:18:34 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 07-12-2022 15:18:35 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:18:35 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:18:36 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 15:18:40 [main] Log - verifySendLogin test is passed.
+[INFO ] 07-12-2022 15:18:40 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:18:40 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:18:42 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 15:18:42 [main] Log - verifyTitleExist test is passed.
+[INFO ] 07-12-2022 15:18:43 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 15:18:44 [main] Log - verifyLogin test is passed.
+[INFO ] 07-12-2022 15:18:44 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 15:18:45 [main] Log - verifyLogout test is passed.
+[INFO ] 07-12-2022 15:18:48 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 16:40:41 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 16:40:41 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 16:40:51 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 16:40:51 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 16:40:56 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 16:40:56 [main] Log - Testcase Fail : check title
+[ERROR] 07-12-2022 16:40:56 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 16:40:57 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 16:40:57 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 16:40:57 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 16:40:58 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 16:40:58 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 16:40:58 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 16:40:58 [main] Log - src/test/resources/configs.properties
+[INFO ] 07-12-2022 16:40:59 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 16:40:59 [main] Log - ExportData/Images
+[INFO ] 07-12-2022 16:40:59 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 16:40:59 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 16:40:59 [main] Log - verifyButtonDisplay test is passed.
+[ERROR] 07-12-2022 16:40:59 [main] Log - verifyButtonDisplay test is failed.
+[INFO ] 07-12-2022 16:41:01 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 16:41:01 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 16:41:01 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 16:41:01 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 16:41:01 [main] Log - 2 broken images
+[INFO ] 07-12-2022 16:41:01 [main] Log - verifyBrokenImg test is passed.
+[ERROR] 07-12-2022 16:41:01 [main] Log - verifyBrokenImg test is failed.
+[INFO ] 07-12-2022 16:41:01 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 16:41:01 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 16:41:02 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 16:41:03 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 16:41:07 [main] Log - verifySendLogin test is passed.
+[ERROR] 07-12-2022 16:41:07 [main] Log - verifySendLogin test is failed.
+[INFO ] 07-12-2022 16:41:07 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 16:41:07 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 16:41:07 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 16:41:10 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 16:41:10 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 16:41:10 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 16:41:10 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 16:41:12 [main] Log - verifyLogin test is passed.
+[ERROR] 07-12-2022 16:41:12 [main] Log - verifyLogin test is failed.
+[INFO ] 07-12-2022 16:41:12 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 16:41:13 [main] Log - verifyLogout test is passed.
+[ERROR] 07-12-2022 16:41:13 [main] Log - verifyLogout test is failed.
+[INFO ] 07-12-2022 16:41:17 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 17:08:02 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 17:08:02 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 17:08:09 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 17:08:09 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 17:08:13 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 17:08:14 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 17:08:14 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:08:14 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:08:15 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:08:15 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 17:08:15 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:08:15 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 17:08:15 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 17:08:16 [main] Log - verifyButtonDisplay test is passed.
+[ERROR] 07-12-2022 17:08:16 [main] Log - verifyButtonDisplay test is failed.
+[INFO ] 07-12-2022 17:08:17 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 17:08:17 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 17:08:17 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 17:08:17 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 17:08:17 [main] Log - 2 broken images
+[INFO ] 07-12-2022 17:08:17 [main] Log - verifyBrokenImg test is passed.
+[ERROR] 07-12-2022 17:08:18 [main] Log - verifyBrokenImg test is failed.
+[INFO ] 07-12-2022 17:08:18 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:08:18 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:08:18 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:08:19 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 17:08:23 [main] Log - verifySendLogin test is passed.
+[ERROR] 07-12-2022 17:08:24 [main] Log - verifySendLogin test is failed.
+[INFO ] 07-12-2022 17:08:24 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:08:24 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:08:24 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:08:26 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:08:26 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:08:26 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:08:26 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 17:08:28 [main] Log - verifyLogin test is passed.
+[ERROR] 07-12-2022 17:08:28 [main] Log - verifyLogin test is failed.
+[INFO ] 07-12-2022 17:08:28 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 17:08:29 [main] Log - verifyLogout test is passed.
+[ERROR] 07-12-2022 17:08:29 [main] Log - verifyLogout test is failed.
+[INFO ] 07-12-2022 17:08:32 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 17:09:25 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 07-12-2022 17:09:25 [main] Log - Launching chrome browser...
+[INFO ] 07-12-2022 17:09:31 [main] Log - src/test/resources/production.properties
+[INFO ] 07-12-2022 17:09:31 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 07-12-2022 17:09:35 [main] Log - verifyTitleExist test is starting...
+[ERROR] 07-12-2022 17:09:35 [main] Log - Testcase Fail : check title
+[INFO ] 07-12-2022 17:09:35 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:09:36 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:09:37 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:09:37 [main] Log - Running testcase verify Title
+[ERROR] 07-12-2022 17:09:37 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:09:37 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 07-12-2022 17:09:37 [main] Log - Running testcase verify button display
+[INFO ] 07-12-2022 17:09:37 [main] Log - verifyButtonDisplay test is passed.
+[ERROR] 07-12-2022 17:09:37 [main] Log - verifyButtonDisplay test is failed.
+[INFO ] 07-12-2022 17:09:39 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 07-12-2022 17:09:39 [main] Log - The page under test has 4 images
+[INFO ] 07-12-2022 17:09:39 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 07-12-2022 17:09:39 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 07-12-2022 17:09:39 [main] Log - 2 broken images
+[INFO ] 07-12-2022 17:09:39 [main] Log - verifyBrokenImg test is passed.
+[ERROR] 07-12-2022 17:09:39 [main] Log - verifyBrokenImg test is failed.
+[INFO ] 07-12-2022 17:09:39 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:09:39 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:09:39 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:09:40 [main] Log - verifySendLogin test is starting...
+[INFO ] 07-12-2022 17:09:43 [main] Log - verifySendLogin test is passed.
+[ERROR] 07-12-2022 17:09:43 [main] Log - verifySendLogin test is failed.
+[INFO ] 07-12-2022 17:09:43 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:09:44 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:09:44 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:09:46 [main] Log - verifyTitleExist test is starting...
+[INFO ] 07-12-2022 17:09:46 [main] Log - verifyTitleExist test is passed.
+[ERROR] 07-12-2022 17:09:46 [main] Log - verifyTitleExist test is failed.
+[INFO ] 07-12-2022 17:09:46 [main] Log - verifyLogin test is starting...
+[INFO ] 07-12-2022 17:09:47 [main] Log - verifyLogin test is passed.
+[ERROR] 07-12-2022 17:09:47 [main] Log - verifyLogin test is failed.
+[INFO ] 07-12-2022 17:09:48 [main] Log - verifyLogout test is starting...
+[INFO ] 07-12-2022 17:09:48 [main] Log - verifyLogout test is passed.
+[ERROR] 07-12-2022 17:09:49 [main] Log - verifyLogout test is failed.
+[INFO ] 07-12-2022 17:09:52 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 08-12-2022 09:43:27 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 08-12-2022 09:43:27 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 09:43:37 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 09:43:37 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 09:43:42 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 09:43:42 [main] Log - Testcase Fail : check title
+[INFO ] 08-12-2022 09:43:42 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 09:43:43 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 09:43:43 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 09:43:43 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 09:43:43 [main] Log - verifyTitleExist test is failed.
+[INFO ] 08-12-2022 09:43:48 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 08-12-2022 10:00:43 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 08-12-2022 10:00:43 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 10:00:49 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 10:00:49 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 10:01:04 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 10:01:05 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 10:01:05 [main] Log - verifyTitleExist test is failed.
+[INFO ] 08-12-2022 10:01:07 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 10:01:07 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 10:01:07 [main] Log - verifyTitleExist test is failed.
+[INFO ] 08-12-2022 10:01:07 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 10:01:07 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 10:01:07 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 08-12-2022 10:01:12 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 10:01:12 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 10:01:12 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 10:01:12 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 10:01:12 [main] Log - 2 broken images
+[INFO ] 08-12-2022 10:01:12 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 08-12-2022 10:01:12 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 10:01:12 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 10:01:14 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 10:01:36 [main] Log - verifySendLogin test is passed.
+[INFO ] 08-12-2022 10:01:36 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 10:01:36 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 10:01:39 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 10:01:39 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 10:01:40 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 10:01:43 [main] Log - verifyLogin test is passed.
+[INFO ] 08-12-2022 10:01:44 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 10:01:45 [main] Log - verifyLogout test is passed.
+[INFO ] 08-12-2022 10:01:48 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSelenium
+[INFO ] 08-12-2022 10:22:02 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 10:22:10 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 10:22:10 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 08-12-2022 10:22:16 [main] Log - Testcase Fail : check title
+[INFO ] 08-12-2022 10:22:17 [main] Log - Running testcase verify Title
+[INFO ] 08-12-2022 10:22:17 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 10:22:19 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 10:22:19 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 10:22:19 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 10:22:19 [main] Log - 2 broken images
+[INFO ] 08-12-2022 10:55:39 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 10:55:49 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 10:55:49 [main] Log - https://the-internet.herokuapp.com/
+[ERROR] 08-12-2022 10:55:56 [main] Log - Testcase Fail : check title
+[INFO ] 08-12-2022 10:55:57 [main] Log - Running testcase verify Title
+[INFO ] 08-12-2022 10:55:57 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 10:55:58 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 10:55:58 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 10:55:58 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 10:55:58 [main] Log - 2 broken images
+[INFO ] 08-12-2022 12:20:01 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 12:20:01 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 12:20:11 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 12:20:11 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 12:20:16 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 12:20:17 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 12:20:17 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 12:20:17 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 12:20:20 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 12:20:20 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 12:20:20 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 12:20:20 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 12:20:20 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 12:20:20 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 12:20:21 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 08-12-2022 12:20:22 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 12:20:22 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 12:20:22 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 12:20:22 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 12:20:22 [main] Log - 2 broken images
+[INFO ] 08-12-2022 12:20:22 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 08-12-2022 12:20:22 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 12:20:22 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 12:20:23 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 12:20:26 [main] Log - verifySendLogin test is passed.
+[INFO ] 08-12-2022 12:20:26 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 12:20:26 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 12:20:28 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 12:20:29 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 12:20:29 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 12:20:30 [main] Log - verifyLogin test is passed.
+[INFO ] 08-12-2022 12:20:30 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 12:20:31 [main] Log - verifyLogout test is passed.
+[INFO ] 08-12-2022 12:20:34 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 13:25:06 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 13:25:06 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 13:25:15 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 13:25:15 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 13:25:19 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 13:25:20 [main] Log - Testcase Fail : check title
+[INFO ] 08-12-2022 13:25:20 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:25:21 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:25:21 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 13:25:21 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 13:25:21 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 13:25:21 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 13:25:21 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 13:25:21 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 08-12-2022 13:25:23 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 13:25:23 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 13:25:23 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 13:25:23 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 13:25:23 [main] Log - 2 broken images
+[INFO ] 08-12-2022 13:25:23 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 08-12-2022 13:25:23 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:25:23 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:25:24 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 13:25:30 [main] Log - verifySendLogin test is passed.
+[INFO ] 08-12-2022 13:25:30 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:25:30 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:25:32 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:25:32 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:25:32 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 13:25:33 [main] Log - verifyLogin test is passed.
+[INFO ] 08-12-2022 13:25:33 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 13:25:34 [main] Log - verifyLogout test is passed.
+[INFO ] 08-12-2022 13:25:37 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 13:44:35 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 13:44:35 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 13:44:41 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 13:44:41 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 13:44:45 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 13:44:46 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 13:44:46 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 13:44:46 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 13:44:46 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:44:46 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:44:46 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:44:47 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:44:47 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 13:44:47 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 13:44:48 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 13:44:48 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:44:48 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:44:48 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:44:48 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 13:44:48 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 13:44:48 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 08-12-2022 13:44:50 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 13:44:50 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 13:44:50 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 13:44:50 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 13:44:50 [main] Log - 2 broken images
+[INFO ] 08-12-2022 13:44:50 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 08-12-2022 13:44:50 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:44:50 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:44:52 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 13:44:55 [main] Log - verifySendLogin test is passed.
+[INFO ] 08-12-2022 13:44:56 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:44:56 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:44:58 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:44:58 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:44:58 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 13:44:59 [main] Log - verifyLogin test is passed.
+[INFO ] 08-12-2022 13:44:59 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 13:45:00 [main] Log - verifyLogout test is passed.
+[INFO ] 08-12-2022 13:45:03 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 13:49:41 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 13:49:41 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 13:49:48 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 13:49:48 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 13:49:53 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 13:49:53 [main] Log - Testcase Fail : check title
+[INFO ] 08-12-2022 13:49:53 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:49:54 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:49:54 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:54 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:55 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:49:55 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 13:49:55 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 13:49:55 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 13:49:55 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 13:49:55 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 13:49:56 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 08-12-2022 13:49:56 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:49:56 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:56 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:57 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 13:49:57 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 13:49:57 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 13:49:57 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 13:49:57 [main] Log - 2 broken images
+[INFO ] 08-12-2022 13:49:57 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 08-12-2022 13:49:57 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:49:58 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:58 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:58 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:49:58 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:49:58 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:49:58 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:58 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:49:59 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 13:50:02 [main] Log - verifySendLogin test is passed.
+[INFO ] 08-12-2022 13:50:02 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:50:02 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:02 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:02 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:50:02 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:50:02 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:50:03 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:03 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:04 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 13:50:05 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 13:50:05 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:50:05 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:05 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:05 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 13:50:06 [main] Log - verifyLogin test is passed.
+[INFO ] 08-12-2022 13:50:06 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:50:06 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:06 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:06 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 13:50:07 [main] Log - verifyLogout test is passed.
+[INFO ] 08-12-2022 13:50:07 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 13:50:08 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:08 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 13:50:11 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:09:52 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:09:52 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 14:09:58 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 14:09:58 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 14:10:03 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 14:10:03 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 14:10:03 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:10:03 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:10:05 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:10:05 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 14:10:05 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:10:05 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:10:05 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 14:10:05 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 14:10:05 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 08-12-2022 14:10:06 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:06 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:06 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:07 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 14:10:07 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 14:10:07 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 14:10:07 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 14:10:07 [main] Log - 2 broken images
+[INFO ] 08-12-2022 14:10:07 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 08-12-2022 14:10:07 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:07 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:07 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:07 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:10:07 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 14:10:08 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:08 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:08 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:09 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 14:10:12 [main] Log - verifySendLogin test is passed.
+[INFO ] 08-12-2022 14:10:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:13 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:13 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:13 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:10:13 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 14:10:13 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:13 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:13 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:15 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:10:15 [main] Log - verifyTitleExist test is passed.
+[INFO ] 08-12-2022 14:10:15 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:15 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:15 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:15 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 14:10:16 [main] Log - verifyLogin test is passed.
+[INFO ] 08-12-2022 14:10:17 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:17 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:17 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:17 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 14:10:18 [main] Log - verifyLogout test is passed.
+[INFO ] 08-12-2022 14:10:18 [main] Log - src/test/resources/configs.properties
+[INFO ] 08-12-2022 14:10:18 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:18 [main] Log - ExportData/Images
+[INFO ] 08-12-2022 14:10:22 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:34:22 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:34:22 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 14:34:29 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 14:34:29 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 14:34:34 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 14:34:35 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 14:34:35 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:34:35 [main] Log - Screenshot captured for test case: verifyTitleExist
+[ERROR] 08-12-2022 14:34:35 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:34:35 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:34:38 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:36:25 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:36:25 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 14:36:33 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 14:36:33 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 14:36:37 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 14:36:37 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 14:36:37 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:36:37 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:36:39 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:36:39 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 14:36:39 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:36:39 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:36:39 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 14:36:39 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 14:36:39 [main] Log - verifyButtonDisplay test is passed.
+[ERROR] 08-12-2022 14:36:39 [main] Log - Screenshot captured for test case: verifyButtonDisplay
+[INFO ] 08-12-2022 14:36:41 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 14:36:41 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 14:36:41 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 14:36:41 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 14:36:41 [main] Log - 2 broken images
+[INFO ] 08-12-2022 14:36:41 [main] Log - verifyBrokenImg test is passed.
+[ERROR] 08-12-2022 14:36:41 [main] Log - Screenshot captured for test case: verifyBrokenImg
+[INFO ] 08-12-2022 14:36:41 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:36:41 [main] Log - verifyTitleExist test is passed.
+[ERROR] 08-12-2022 14:36:42 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:36:43 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 14:36:48 [main] Log - verifySendLogin test is passed.
+[ERROR] 08-12-2022 14:36:48 [main] Log - Screenshot captured for test case: verifySendLogin
+[INFO ] 08-12-2022 14:36:48 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:36:48 [main] Log - verifyTitleExist test is passed.
+[ERROR] 08-12-2022 14:36:48 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:36:50 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:36:50 [main] Log - verifyTitleExist test is passed.
+[ERROR] 08-12-2022 14:36:50 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:36:51 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 14:36:52 [main] Log - verifyLogin test is passed.
+[ERROR] 08-12-2022 14:36:52 [main] Log - Screenshot captured for test case: verifyLogin
+[INFO ] 08-12-2022 14:36:52 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 14:36:53 [main] Log - verifyLogout test is passed.
+[ERROR] 08-12-2022 14:36:53 [main] Log - Screenshot captured for test case: verifyLogout
+[INFO ] 08-12-2022 14:36:57 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:53:06 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 08-12-2022 14:53:06 [main] Log - Launching chrome browser...
+[INFO ] 08-12-2022 14:53:12 [main] Log - src/test/resources/production.properties
+[INFO ] 08-12-2022 14:53:12 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 08-12-2022 14:53:16 [main] Log - verifyTitleExist test is starting...
+[ERROR] 08-12-2022 14:53:16 [main] Log - Testcase Fail : check title
+[ERROR] 08-12-2022 14:53:16 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:53:17 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:53:18 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:53:18 [main] Log - Running testcase verify Title
+[ERROR] 08-12-2022 14:53:18 [main] Log - verifyTitleExist test is failed.
+[ERROR] 08-12-2022 14:53:18 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:53:18 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 08-12-2022 14:53:18 [main] Log - Running testcase verify button display
+[INFO ] 08-12-2022 14:53:19 [main] Log - verifyButtonDisplay test is passed.
+[ERROR] 08-12-2022 14:53:19 [main] Log - Screenshot captured for test case: verifyButtonDisplay
+[INFO ] 08-12-2022 14:53:20 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 08-12-2022 14:53:20 [main] Log - The page under test has 4 images
+[INFO ] 08-12-2022 14:53:20 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 08-12-2022 14:53:20 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 08-12-2022 14:53:20 [main] Log - 2 broken images
+[INFO ] 08-12-2022 14:53:20 [main] Log - verifyBrokenImg test is passed.
+[ERROR] 08-12-2022 14:53:21 [main] Log - Screenshot captured for test case: verifyBrokenImg
+[INFO ] 08-12-2022 14:53:21 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:53:21 [main] Log - verifyTitleExist test is passed.
+[ERROR] 08-12-2022 14:53:21 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:53:22 [main] Log - verifySendLogin test is starting...
+[INFO ] 08-12-2022 14:53:25 [main] Log - verifySendLogin test is passed.
+[ERROR] 08-12-2022 14:53:25 [main] Log - Screenshot captured for test case: verifySendLogin
+[INFO ] 08-12-2022 14:53:25 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:53:25 [main] Log - verifyTitleExist test is passed.
+[ERROR] 08-12-2022 14:53:26 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:53:28 [main] Log - verifyTitleExist test is starting...
+[INFO ] 08-12-2022 14:53:28 [main] Log - verifyTitleExist test is passed.
+[ERROR] 08-12-2022 14:53:28 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 08-12-2022 14:53:28 [main] Log - verifyLogin test is starting...
+[INFO ] 08-12-2022 14:53:29 [main] Log - verifyLogin test is passed.
+[ERROR] 08-12-2022 14:53:29 [main] Log - Screenshot captured for test case: verifyLogin
+[INFO ] 08-12-2022 14:53:29 [main] Log - verifyLogout test is starting...
+[INFO ] 08-12-2022 14:53:30 [main] Log - verifyLogout test is passed.
+[ERROR] 08-12-2022 14:53:30 [main] Log - Screenshot captured for test case: verifyLogout
+[INFO ] 08-12-2022 14:53:33 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 10:55:14 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 10:55:14 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyButtonDisplay test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyButtonDisplay test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyBrokenImg test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyBrokenImg test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifySendLogin test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifySendLogin test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyLogin test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyLogin test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - verifyLogout test is starting...
+[WARN ] 09-12-2022 10:55:26 [main] Log - verifyLogout test is skipped.
+[INFO ] 09-12-2022 10:55:26 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 10:56:56 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 10:56:56 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyButtonDisplay test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyButtonDisplay test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyBrokenImg test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyBrokenImg test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifySendLogin test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifySendLogin test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyLogin test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyLogin test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - verifyLogout test is starting...
+[WARN ] 09-12-2022 10:57:02 [main] Log - verifyLogout test is skipped.
+[INFO ] 09-12-2022 10:57:02 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 10:58:27 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 10:58:27 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 10:58:34 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 10:58:34 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 10:58:38 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 10:58:39 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 10:58:39 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 10:58:40 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 10:58:40 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 10:58:40 [main] Log - verifyButtonDisplay test is starting...
+[WARN ] 09-12-2022 10:58:40 [main] Log - verifyButtonDisplay test is skipped.
+[INFO ] 09-12-2022 10:59:10 [main] Log - verifyBrokenImg test is starting...
+[WARN ] 09-12-2022 10:59:10 [main] Log - verifyBrokenImg test is skipped.
+[INFO ] 09-12-2022 10:59:10 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:59:10 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 10:59:40 [main] Log - verifySendLogin test is starting...
+[WARN ] 09-12-2022 10:59:40 [main] Log - verifySendLogin test is skipped.
+[INFO ] 09-12-2022 10:59:40 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 10:59:40 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 11:00:11 [main] Log - verifyTitleExist test is starting...
+[WARN ] 09-12-2022 11:00:11 [main] Log - verifyTitleExist test is skipped.
+[INFO ] 09-12-2022 11:00:11 [main] Log - verifyLogin test is starting...
+[WARN ] 09-12-2022 11:00:11 [main] Log - verifyLogin test is skipped.
+[INFO ] 09-12-2022 11:00:11 [main] Log - verifyLogout test is starting...
+[WARN ] 09-12-2022 11:00:11 [main] Log - verifyLogout test is skipped.
+[INFO ] 09-12-2022 11:00:13 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:06:17 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:06:17 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:06:22 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:06:22 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:06:26 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:06:27 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:06:27 [main] Log - src/test/resources/environment/dev.properties
+[INFO ] 09-12-2022 11:06:27 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:06:27 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:06:28 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:06:28 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:06:29 [main] Log - src/test/resources/environment/dev.properties
+[INFO ] 09-12-2022 11:06:29 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:06:29 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:06:29 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:06:29 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:06:29 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:06:30 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:06:30 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:06:30 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:06:30 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:06:30 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:06:30 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:06:30 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:06:30 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:06:31 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:06:38 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:06:38 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:06:38 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:06:40 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:06:40 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:06:40 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:06:41 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:06:41 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:06:42 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:06:45 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:08:27 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:08:28 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:08:33 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:08:33 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:08:37 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:08:37 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:08:38 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:08:38 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:08:39 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:08:39 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:08:39 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:08:39 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:08:39 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:08:39 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:08:40 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:08:41 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:08:41 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:08:41 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:08:41 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:08:41 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:08:41 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:08:41 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:08:41 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:08:42 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:08:45 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:08:45 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:08:45 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:08:47 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:08:47 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:08:47 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:08:48 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:08:48 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:08:48 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:08:52 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:11:17 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:11:17 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:11:23 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:11:23 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:11:28 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:11:29 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:11:29 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:11:30 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:11:30 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:11:31 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:11:31 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:11:31 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:11:31 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:11:31 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:11:33 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:11:33 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:11:33 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:11:33 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:11:33 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:11:33 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:11:33 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:11:33 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:11:35 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:11:38 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:11:38 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:11:38 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:11:40 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:11:40 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:11:40 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:11:41 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:11:41 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:11:41 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:11:45 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:14:56 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:14:56 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:15:02 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:15:02 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:15:07 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:15:07 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:15:08 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:15:08 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:15:09 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:15:09 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:15:09 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:15:09 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:15:09 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:15:09 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:15:09 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:15:11 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:15:11 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:15:11 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:15:11 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:15:11 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:15:11 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:15:11 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:15:11 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:15:12 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:15:15 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:15:15 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:15:15 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:15:17 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:15:17 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:15:17 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:15:19 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:15:19 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:15:20 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:15:24 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:22:01 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:22:01 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:22:07 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:22:07 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:22:11 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:22:11 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:22:12 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:22:12 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:22:13 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:22:13 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:22:13 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:22:13 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:22:13 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:22:13 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:22:14 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:22:15 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:22:15 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:22:15 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:22:15 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:22:15 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:22:15 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:22:15 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:22:15 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:22:16 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:22:22 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:22:22 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:22:22 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:22:24 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:22:25 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:22:25 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:22:26 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:22:26 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:22:27 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:22:30 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:42:02 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:42:02 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:42:12 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:42:12 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:42:19 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:42:19 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:42:20 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:42:20 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:42:21 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:42:21 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:42:21 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:42:21 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:42:22 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:42:22 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:42:22 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:42:23 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:42:23 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:42:23 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:42:23 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:42:23 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:42:23 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:42:23 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:42:23 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:42:24 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:42:29 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:42:29 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:42:29 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:42:31 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:42:31 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:42:31 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:42:32 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:42:32 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:42:33 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:42:36 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:44:12 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:44:12 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:44:21 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:44:21 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:44:25 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:44:26 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:44:26 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:44:28 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:44:28 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:44:28 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:44:28 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:44:28 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:44:28 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:44:29 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:44:30 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:44:30 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:44:30 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:44:30 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:44:30 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:44:30 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:44:30 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:44:30 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:44:31 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:44:35 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:44:35 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:44:35 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:44:37 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:44:37 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:44:37 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:44:38 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:44:38 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:44:39 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:44:42 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:46:50 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:46:50 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:46:58 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:46:58 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:47:02 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:47:03 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:47:04 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:47:04 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:47:05 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:47:05 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:47:06 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:47:06 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:47:06 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:47:06 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:47:06 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:47:07 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:47:08 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:47:08 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:47:08 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:47:08 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:47:08 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:47:08 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:47:08 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:47:09 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:47:13 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:47:13 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:47:13 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:47:16 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:47:16 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:47:16 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:47:17 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:47:17 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:47:20 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:47:24 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:49:31 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:49:32 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:49:40 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:49:40 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:49:44 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:49:45 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:49:45 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:49:46 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:49:46 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:49:47 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:49:47 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:49:47 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:49:47 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:49:47 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:49:49 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:49:49 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:49:49 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:49:49 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:49:49 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:49:49 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:49:49 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:49:49 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:49:50 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:49:53 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:49:53 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:49:53 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:49:55 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:49:55 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:49:55 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:49:56 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:49:56 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:49:57 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:50:00 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:54:21 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 11:54:21 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 11:54:29 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 11:54:29 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 11:54:33 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 11:54:34 [main] Log - Testcase Fail : check title
+[INFO ] 09-12-2022 11:54:35 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:54:35 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:54:36 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:54:36 [main] Log - Running testcase verify Title
+[INFO ] 09-12-2022 11:54:37 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:54:37 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 11:54:37 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 11:54:37 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 11:54:37 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 11:54:38 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 11:54:38 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 11:54:38 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 11:54:38 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 11:54:38 [main] Log - 2 broken images
+[INFO ] 09-12-2022 11:54:38 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 11:54:38 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:54:38 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:54:39 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 11:54:42 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 11:54:42 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:54:42 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:54:44 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 11:54:44 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 11:54:44 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 11:54:45 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 11:54:45 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 11:54:46 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 11:54:49 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 13:53:33 [main] Log - Start testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
+[INFO ] 09-12-2022 13:53:33 [main] Log - Launching chrome browser...
+[INFO ] 09-12-2022 13:53:42 [main] Log - src/test/resources/environment/production.properties
+[INFO ] 09-12-2022 13:53:42 [main] Log - https://the-internet.herokuapp.com/
+[INFO ] 09-12-2022 13:53:46 [main] Log - verifyTitleExist test is starting...
+[ERROR] 09-12-2022 13:53:47 [main] Log - Testcase Fail : check title
+[ERROR] 09-12-2022 13:53:47 [main] Log - verifyTitleExist test is failed.
+[ERROR] 09-12-2022 13:53:47 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 09-12-2022 13:53:48 [main] Log - verifyTitleExist test is failed.
+[INFO ] 09-12-2022 13:53:48 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 13:53:48 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 13:53:49 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 13:53:49 [main] Log - Running testcase verify Title
+[ERROR] 09-12-2022 13:53:49 [main] Log - verifyTitleExist test is failed.
+[ERROR] 09-12-2022 13:53:49 [main] Log - Screenshot captured for test case: verifyTitleExist
+[INFO ] 09-12-2022 13:53:49 [main] Log - verifyTitleExist test is failed.
+[INFO ] 09-12-2022 13:53:50 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 13:53:50 [main] Log - ExportData/Images
+[INFO ] 09-12-2022 13:53:50 [main] Log - verifyButtonDisplay test is starting...
+[INFO ] 09-12-2022 13:53:50 [main] Log - Running testcase verify button display
+[INFO ] 09-12-2022 13:53:50 [main] Log - verifyButtonDisplay test is passed.
+[INFO ] 09-12-2022 13:53:51 [main] Log - verifyBrokenImg test is starting...
+[INFO ] 09-12-2022 13:53:51 [main] Log - The page under test has 4 images
+[INFO ] 09-12-2022 13:53:51 [main] Log - <img src="asdf.jpg"> is broken.
+[INFO ] 09-12-2022 13:53:51 [main] Log - <img src="hjkl.jpg"> is broken.
+[INFO ] 09-12-2022 13:53:51 [main] Log - 2 broken images
+[INFO ] 09-12-2022 13:53:51 [main] Log - verifyBrokenImg test is passed.
+[INFO ] 09-12-2022 13:53:51 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 13:53:51 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 13:53:52 [main] Log - verifySendLogin test is starting...
+[INFO ] 09-12-2022 13:53:56 [main] Log - verifySendLogin test is passed.
+[INFO ] 09-12-2022 13:53:56 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 13:53:56 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 13:53:59 [main] Log - verifyTitleExist test is starting...
+[INFO ] 09-12-2022 13:53:59 [main] Log - verifyTitleExist test is passed.
+[INFO ] 09-12-2022 13:53:59 [main] Log - verifyLogin test is starting...
+[INFO ] 09-12-2022 13:54:00 [main] Log - verifyLogin test is passed.
+[INFO ] 09-12-2022 13:54:00 [main] Log - verifyLogout test is starting...
+[INFO ] 09-12-2022 13:54:01 [main] Log - verifyLogout test is passed.
+[INFO ] 09-12-2022 13:54:04 [main] Log - End testing C:/Users/lonbui/IdeaProjects/BasicSeleniumReport
